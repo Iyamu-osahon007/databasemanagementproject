@@ -1,0 +1,391 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\scr\\databasemanagementproject\\ProductsOrder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{743A3ABF-A1B3-48BF-8B90-640B75E98D66}|ProductsOrder\\ProductsOrder.csproj|c:\\scr\\databasemanagementproject\\productsorder\\productsorder\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{743A3ABF-A1B3-48BF-8B90-640B75E98D66}|ProductsOrder\\ProductsOrder.csproj|solutionrelative:productsorder\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{743A3ABF-A1B3-48BF-8B90-640B75E98D66}|ProductsOrder\\ProductsOrder.csproj|c:\\scr\\databasemanagementproject\\productsorder\\productsorder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{743A3ABF-A1B3-48BF-8B90-640B75E98D66}|ProductsOrder\\ProductsOrder.csproj|solutionrelative:productsorder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{743A3ABF-A1B3-48BF-8B90-640B75E98D66}|ProductsOrder\\ProductsOrder.csproj|C:\\scr\\databasemanagementproject\\ProductsOrder\\productsorder\\frmmdiparent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{743A3ABF-A1B3-48BF-8B90-640B75E98D66}|ProductsOrder\\ProductsOrder.csproj|solutionrelative:productsorder\\frmmdiparent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{743A3ABF-A1B3-48BF-8B90-640B75E98D66}|ProductsOrder\\ProductsOrder.csproj|c:\\scr\\databasemanagementproject\\productsorder\\productsorder\\productordered.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{743A3ABF-A1B3-48BF-8B90-640B75E98D66}|ProductsOrder\\ProductsOrder.csproj|solutionrelative:productsorder\\productordered.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{743A3ABF-A1B3-48BF-8B90-640B75E98D66}|ProductsOrder\\ProductsOrder.csproj|C:\\scr\\databasemanagementproject\\ProductsOrder\\productsorder\\productordered.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{743A3ABF-A1B3-48BF-8B90-640B75E98D66}|ProductsOrder\\ProductsOrder.csproj|solutionrelative:productsorder\\productordered.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{743A3ABF-A1B3-48BF-8B90-640B75E98D66}|ProductsOrder\\ProductsOrder.csproj|c:\\scr\\databasemanagementproject\\productsorder\\productsorder\\frmproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{743A3ABF-A1B3-48BF-8B90-640B75E98D66}|ProductsOrder\\ProductsOrder.csproj|solutionrelative:productsorder\\frmproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{743A3ABF-A1B3-48BF-8B90-640B75E98D66}|ProductsOrder\\ProductsOrder.csproj|c:\\scr\\databasemanagementproject\\productsorder\\productsorder\\frmorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{743A3ABF-A1B3-48BF-8B90-640B75E98D66}|ProductsOrder\\ProductsOrder.csproj|solutionrelative:productsorder\\frmorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{743A3ABF-A1B3-48BF-8B90-640B75E98D66}|ProductsOrder\\ProductsOrder.csproj|C:\\scr\\databasemanagementproject\\ProductsOrder\\productsorder\\frmproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{743A3ABF-A1B3-48BF-8B90-640B75E98D66}|ProductsOrder\\ProductsOrder.csproj|solutionrelative:productsorder\\frmproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{743A3ABF-A1B3-48BF-8B90-640B75E98D66}|ProductsOrder\\ProductsOrder.csproj|c:\\scr\\databasemanagementproject\\productsorder\\productsorder\\frmbrowseorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{743A3ABF-A1B3-48BF-8B90-640B75E98D66}|ProductsOrder\\ProductsOrder.csproj|solutionrelative:productsorder\\frmbrowseorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{743A3ABF-A1B3-48BF-8B90-640B75E98D66}|ProductsOrder\\ProductsOrder.csproj|C:\\scr\\databasemanagementproject\\ProductsOrder\\productsorder\\frmorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{743A3ABF-A1B3-48BF-8B90-640B75E98D66}|ProductsOrder\\ProductsOrder.csproj|solutionrelative:productsorder\\frmorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{743A3ABF-A1B3-48BF-8B90-640B75E98D66}|ProductsOrder\\ProductsOrder.csproj|c:\\scr\\databasemanagementproject\\productsorder\\productsorder\\datauiut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{743A3ABF-A1B3-48BF-8B90-640B75E98D66}|ProductsOrder\\ProductsOrder.csproj|solutionrelative:productsorder\\datauiut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{743A3ABF-A1B3-48BF-8B90-640B75E98D66}|ProductsOrder\\ProductsOrder.csproj|C:\\scr\\databasemanagementproject\\ProductsOrder\\productsorder\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{743A3ABF-A1B3-48BF-8B90-640B75E98D66}|ProductsOrder\\ProductsOrder.csproj|solutionrelative:productsorder\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{743A3ABF-A1B3-48BF-8B90-640B75E98D66}|ProductsOrder\\ProductsOrder.csproj|c:\\scr\\databasemanagementproject\\productsorder\\productsorder\\uiutilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{743A3ABF-A1B3-48BF-8B90-640B75E98D66}|ProductsOrder\\ProductsOrder.csproj|solutionrelative:productsorder\\uiutilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{743A3ABF-A1B3-48BF-8B90-640B75E98D66}|ProductsOrder\\ProductsOrder.csproj|c:\\scr\\databasemanagementproject\\productsorder\\productsorder\\frmhome.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{743A3ABF-A1B3-48BF-8B90-640B75E98D66}|ProductsOrder\\ProductsOrder.csproj|solutionrelative:productsorder\\frmhome.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{743A3ABF-A1B3-48BF-8B90-640B75E98D66}|ProductsOrder\\ProductsOrder.csproj|c:\\scr\\databasemanagementproject\\productsorder\\productsorder\\scripts\\manytomany.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{743A3ABF-A1B3-48BF-8B90-640B75E98D66}|ProductsOrder\\ProductsOrder.csproj|solutionrelative:productsorder\\scripts\\manytomany.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{743A3ABF-A1B3-48BF-8B90-640B75E98D66}|ProductsOrder\\ProductsOrder.csproj|c:\\scr\\databasemanagementproject\\productsorder\\productsorder\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{743A3ABF-A1B3-48BF-8B90-640B75E98D66}|ProductsOrder\\ProductsOrder.csproj|solutionrelative:productsorder\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{743A3ABF-A1B3-48BF-8B90-640B75E98D66}|ProductsOrder\\ProductsOrder.csproj|c:\\scr\\databasemanagementproject\\productsorder\\productsorder\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{743A3ABF-A1B3-48BF-8B90-640B75E98D66}|ProductsOrder\\ProductsOrder.csproj|solutionrelative:productsorder\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{743A3ABF-A1B3-48BF-8B90-640B75E98D66}|ProductsOrder\\ProductsOrder.csproj|C:\\scr\\databasemanagementproject\\ProductsOrder\\productsorder\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{743A3ABF-A1B3-48BF-8B90-640B75E98D66}|ProductsOrder\\ProductsOrder.csproj|solutionrelative:productsorder\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{743A3ABF-A1B3-48BF-8B90-640B75E98D66}|ProductsOrder\\ProductsOrder.csproj|c:\\scr\\databasemanagementproject\\productsorder\\productsorder\\scripts\\ivm.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{743A3ABF-A1B3-48BF-8B90-640B75E98D66}|ProductsOrder\\ProductsOrder.csproj|solutionrelative:productsorder\\scripts\\ivm.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{743A3ABF-A1B3-48BF-8B90-640B75E98D66}|ProductsOrder\\ProductsOrder.csproj|c:\\scr\\databasemanagementproject\\productsorder\\productsorder\\validators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{743A3ABF-A1B3-48BF-8B90-640B75E98D66}|ProductsOrder\\ProductsOrder.csproj|solutionrelative:productsorder\\validators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{743A3ABF-A1B3-48BF-8B90-640B75E98D66}|ProductsOrder\\ProductsOrder.csproj|c:\\scr\\databasemanagementproject\\productsorder\\productsorder\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{743A3ABF-A1B3-48BF-8B90-640B75E98D66}|ProductsOrder\\ProductsOrder.csproj|solutionrelative:productsorder\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{743A3ABF-A1B3-48BF-8B90-640B75E98D66}|ProductsOrder\\ProductsOrder.csproj|c:\\scr\\databasemanagementproject\\productsorder\\productsorder\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{743A3ABF-A1B3-48BF-8B90-640B75E98D66}|ProductsOrder\\ProductsOrder.csproj|solutionrelative:productsorder\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{743A3ABF-A1B3-48BF-8B90-640B75E98D66}|ProductsOrder\\ProductsOrder.csproj|c:\\scr\\databasemanagementproject\\productsorder\\productsorder\\formstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{743A3ABF-A1B3-48BF-8B90-640B75E98D66}|ProductsOrder\\ProductsOrder.csproj|solutionrelative:productsorder\\formstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataAccess.cs",
+              "DocumentMoniker": "C:\\scr\\databasemanagementproject\\ProductsOrder\\ProductsOrder\\DataAccess.cs",
+              "RelativeDocumentMoniker": "ProductsOrder\\DataAccess.cs",
+              "ToolTip": "C:\\scr\\databasemanagementproject\\ProductsOrder\\ProductsOrder\\DataAccess.cs",
+              "RelativeToolTip": "ProductsOrder\\DataAccess.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAtwGQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T08:54:35.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmProducts.cs",
+              "DocumentMoniker": "C:\\scr\\databasemanagementproject\\ProductsOrder\\ProductsOrder\\frmProducts.cs",
+              "RelativeDocumentMoniker": "ProductsOrder\\frmProducts.cs",
+              "ToolTip": "C:\\scr\\databasemanagementproject\\ProductsOrder\\ProductsOrder\\frmProducts.cs",
+              "RelativeToolTip": "ProductsOrder\\frmProducts.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAwwNEBAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T16:23:15.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\scr\\databasemanagementproject\\ProductsOrder\\ProductsOrder\\Program.cs",
+              "RelativeDocumentMoniker": "ProductsOrder\\Program.cs",
+              "ToolTip": "C:\\scr\\databasemanagementproject\\ProductsOrder\\ProductsOrder\\Program.cs",
+              "RelativeToolTip": "ProductsOrder\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T01:51:46.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmMDIParent.cs [Design]",
+              "DocumentMoniker": "C:\\scr\\databasemanagementproject\\ProductsOrder\\ProductsOrder\\frmMDIParent.cs",
+              "RelativeDocumentMoniker": "ProductsOrder\\frmMDIParent.cs",
+              "ToolTip": "C:\\scr\\databasemanagementproject\\ProductsOrder\\ProductsOrder\\frmMDIParent.cs [Design]",
+              "RelativeToolTip": "ProductsOrder\\frmMDIParent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T07:14:41.747Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmBrowseOrders.cs",
+              "DocumentMoniker": "C:\\scr\\databasemanagementproject\\ProductsOrder\\ProductsOrder\\frmBrowseOrders.cs",
+              "RelativeDocumentMoniker": "ProductsOrder\\frmBrowseOrders.cs",
+              "ToolTip": "C:\\scr\\databasemanagementproject\\ProductsOrder\\ProductsOrder\\frmBrowseOrders.cs",
+              "RelativeToolTip": "ProductsOrder\\frmBrowseOrders.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwC4AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T17:15:17.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductOrdered.cs",
+              "DocumentMoniker": "C:\\scr\\databasemanagementproject\\ProductsOrder\\ProductsOrder\\ProductOrdered.cs",
+              "RelativeDocumentMoniker": "ProductsOrder\\ProductOrdered.cs",
+              "ToolTip": "C:\\scr\\databasemanagementproject\\ProductsOrder\\ProductsOrder\\ProductOrdered.cs",
+              "RelativeToolTip": "ProductsOrder\\ProductOrdered.cs",
+              "ViewState": "AQIAAIsCAAAAAAAAAAAiwC0CAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T16:26:32.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductOrdered.cs [Design]",
+              "DocumentMoniker": "C:\\scr\\databasemanagementproject\\ProductsOrder\\ProductsOrder\\ProductOrdered.cs",
+              "RelativeDocumentMoniker": "ProductsOrder\\ProductOrdered.cs",
+              "ToolTip": "C:\\src\\databasemanagementproject\\ProductsOrder\\ProductsOrder\\ProductOrdered.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\src\\databasemanagementproject\\ProductsOrder\\ProductsOrder\\ProductOrdered.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T12:49:13.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmProducts.cs [Design]",
+              "DocumentMoniker": "C:\\scr\\databasemanagementproject\\ProductsOrder\\ProductsOrder\\frmProducts.cs",
+              "RelativeDocumentMoniker": "ProductsOrder\\frmProducts.cs",
+              "ToolTip": "C:\\src\\databasemanagementproject\\ProductsOrder\\ProductsOrder\\frmProducts.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\src\\databasemanagementproject\\ProductsOrder\\ProductsOrder\\frmProducts.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:35:46.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmOrder.cs",
+              "DocumentMoniker": "C:\\scr\\databasemanagementproject\\ProductsOrder\\ProductsOrder\\frmOrder.cs",
+              "RelativeDocumentMoniker": "ProductsOrder\\frmOrder.cs",
+              "ToolTip": "C:\\scr\\databasemanagementproject\\ProductsOrder\\ProductsOrder\\frmOrder.cs",
+              "RelativeToolTip": "ProductsOrder\\frmOrder.cs",
+              "ViewState": "AQIAAAsBAAAAAAAAAAAwwA8BAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T00:01:50.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmOrder.cs [Design]",
+              "DocumentMoniker": "C:\\scr\\databasemanagementproject\\ProductsOrder\\ProductsOrder\\frmOrder.cs",
+              "RelativeDocumentMoniker": "ProductsOrder\\frmOrder.cs",
+              "ToolTip": "C:\\src\\databasemanagementproject\\ProductsOrder\\ProductsOrder\\frmOrder.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\src\\databasemanagementproject\\ProductsOrder\\ProductsOrder\\frmOrder.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:22:11.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DataUIUT.cs",
+              "DocumentMoniker": "C:\\scr\\databasemanagementproject\\ProductsOrder\\ProductsOrder\\DataUIUT.cs",
+              "RelativeDocumentMoniker": "ProductsOrder\\DataUIUT.cs",
+              "ToolTip": "C:\\scr\\databasemanagementproject\\ProductsOrder\\ProductsOrder\\DataUIUT.cs",
+              "RelativeToolTip": "ProductsOrder\\DataUIUT.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T20:02:18.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmHome.cs [Design]",
+              "DocumentMoniker": "C:\\scr\\databasemanagementproject\\ProductsOrder\\ProductsOrder\\frmHome.cs",
+              "RelativeDocumentMoniker": "ProductsOrder\\frmHome.cs",
+              "ToolTip": "C:\\src\\dbProg\\ProductsOrder\\ProductsOrder\\frmHome.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\src\\dbProg\\ProductsOrder\\ProductsOrder\\frmHome.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T08:17:27.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UIUtilities.cs",
+              "DocumentMoniker": "C:\\scr\\databasemanagementproject\\ProductsOrder\\ProductsOrder\\UIUtilities.cs",
+              "RelativeDocumentMoniker": "ProductsOrder\\UIUtilities.cs",
+              "ToolTip": "C:\\scr\\databasemanagementproject\\ProductsOrder\\ProductsOrder\\UIUtilities.cs",
+              "RelativeToolTip": "ProductsOrder\\UIUtilities.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAvwEsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T21:47:25.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmHome.Designer.cs",
+              "DocumentMoniker": "C:\\scr\\databasemanagementproject\\ProductsOrder\\ProductsOrder\\frmHome.Designer.cs",
+              "RelativeDocumentMoniker": "ProductsOrder\\frmHome.Designer.cs",
+              "ToolTip": "C:\\scr\\databasemanagementproject\\ProductsOrder\\ProductsOrder\\frmHome.Designer.cs",
+              "RelativeToolTip": "ProductsOrder\\frmHome.Designer.cs",
+              "ViewState": "AQIAANYAAAAAAAAAAAAlwOAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:37:34.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ManyToMany.sql",
+              "DocumentMoniker": "C:\\scr\\databasemanagementproject\\ProductsOrder\\ProductsOrder\\Scripts\\ManyToMany.sql",
+              "RelativeDocumentMoniker": "ProductsOrder\\Scripts\\ManyToMany.sql",
+              "ToolTip": "C:\\scr\\databasemanagementproject\\ProductsOrder\\ProductsOrder\\Scripts\\ManyToMany.sql",
+              "RelativeToolTip": "ProductsOrder\\Scripts\\ManyToMany.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-10T02:54:28.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmHome.cs",
+              "DocumentMoniker": "C:\\scr\\databasemanagementproject\\ProductsOrder\\ProductsOrder\\frmHome.cs",
+              "RelativeDocumentMoniker": "ProductsOrder\\frmHome.cs",
+              "ToolTip": "C:\\scr\\databasemanagementproject\\ProductsOrder\\ProductsOrder\\frmHome.cs",
+              "RelativeToolTip": "ProductsOrder\\frmHome.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAEwDkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T07:34:17.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "C:\\scr\\databasemanagementproject\\ProductsOrder\\ProductsOrder\\frmLogin.cs",
+              "RelativeDocumentMoniker": "ProductsOrder\\frmLogin.cs",
+              "ToolTip": "C:\\scr\\databasemanagementproject\\ProductsOrder\\ProductsOrder\\frmLogin.cs",
+              "RelativeToolTip": "ProductsOrder\\frmLogin.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAADwvxwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T13:43:48.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "C:\\scr\\databasemanagementproject\\ProductsOrder\\ProductsOrder\\frmLogin.cs",
+              "RelativeDocumentMoniker": "ProductsOrder\\frmLogin.cs",
+              "ToolTip": "C:\\src\\SPRING\\DataBase Programming\\Project\\databasemanagementproject\\ProductsOrder\\ProductsOrder\\frmLogin.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\src\\SPRING\\DataBase Programming\\Project\\databasemanagementproject\\ProductsOrder\\ProductsOrder\\frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T13:11:44.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IVM.sql",
+              "DocumentMoniker": "C:\\scr\\databasemanagementproject\\ProductsOrder\\ProductsOrder\\Scripts\\IVM.sql",
+              "RelativeDocumentMoniker": "ProductsOrder\\Scripts\\IVM.sql",
+              "ToolTip": "C:\\scr\\databasemanagementproject\\ProductsOrder\\ProductsOrder\\Scripts\\IVM.sql",
+              "RelativeToolTip": "ProductsOrder\\Scripts\\IVM.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-10T02:53:11.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Validators.cs",
+              "DocumentMoniker": "C:\\scr\\databasemanagementproject\\ProductsOrder\\ProductsOrder\\Validators.cs",
+              "RelativeDocumentMoniker": "ProductsOrder\\Validators.cs",
+              "ToolTip": "C:\\scr\\databasemanagementproject\\ProductsOrder\\ProductsOrder\\Validators.cs",
+              "RelativeToolTip": "ProductsOrder\\Validators.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T06:00:29.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "frmLogin.Designer.cs",
+              "DocumentMoniker": "C:\\scr\\databasemanagementproject\\ProductsOrder\\ProductsOrder\\frmLogin.Designer.cs",
+              "RelativeDocumentMoniker": "ProductsOrder\\frmLogin.Designer.cs",
+              "ToolTip": "C:\\scr\\databasemanagementproject\\ProductsOrder\\ProductsOrder\\frmLogin.Designer.cs",
+              "RelativeToolTip": "ProductsOrder\\frmLogin.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T14:15:53.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\scr\\databasemanagementproject\\ProductsOrder\\ProductsOrder\\App.config",
+              "RelativeDocumentMoniker": "ProductsOrder\\App.config",
+              "ToolTip": "C:\\scr\\databasemanagementproject\\ProductsOrder\\ProductsOrder\\App.config",
+              "RelativeToolTip": "ProductsOrder\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-03T02:51:14.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FormState.cs",
+              "DocumentMoniker": "C:\\scr\\databasemanagementproject\\ProductsOrder\\ProductsOrder\\FormState.cs",
+              "RelativeDocumentMoniker": "ProductsOrder\\FormState.cs",
+              "ToolTip": "C:\\scr\\databasemanagementproject\\ProductsOrder\\ProductsOrder\\FormState.cs",
+              "RelativeToolTip": "ProductsOrder\\FormState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T08:59:41.859Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+C:\src\dbProg\ProductsOrder\ProductsOrder\bin\Release\net8.0-windows\app.publish\ProductsOrder.exe
+C:\src\dbProg\ProductsOrder\ProductsOrder\bin\Release\net8.0-windows\app.publish\ProductsOrder.dll
+C:\src\dbProg\ProductsOrder\ProductsOrder\bin\Release\net8.0-windows\app.publish\ProductsOrder.deps.json
+C:\src\dbProg\ProductsOrder\ProductsOrder\bin\Release\net8.0-windows\app.publish\ProductsOrder.runtimeconfig.json
+C:\src\dbProg\ProductsOrder\ProductsOrder\bin\Release\net8.0-windows\app.publish\ProductsOrder.dll.config
+C:\src\dbProg\ProductsOrder\ProductsOrder\bin\Release\net8.0-windows\app.publish\ProductsOrder.pdb
+C:\src\dbProg\ProductsOrder\ProductsOrder\bin\Release\net8.0-windows\app.publish\System.Data.SqlClient.dll
+C:\src\dbProg\ProductsOrder\ProductsOrder\bin\Release\net8.0-windows\app.publish\runtimes\win-arm64\native\sni.dll
+C:\src\dbProg\ProductsOrder\ProductsOrder\bin\Release\net8.0-windows\app.publish\runtimes\win-x64\native\sni.dll
+C:\src\dbProg\ProductsOrder\ProductsOrder\bin\Release\net8.0-windows\app.publish\runtimes\win-x86\native\sni.dll
+C:\src\dbProg\ProductsOrder\ProductsOrder\bin\Release\net8.0-windows\app.publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\src\dbProg\ProductsOrder\ProductsOrder\bin\Release\net8.0-windows\app.publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

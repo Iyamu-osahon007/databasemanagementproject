@@ -1,0 +1,104 @@
+C:\src\SPRING\DataBase Programming\Project\databasemanagementproject\ProductsOrder\ProductsOrder\bin\Debug\net8.0-windows\ProductsOrder.exe
+C:\src\SPRING\DataBase Programming\Project\databasemanagementproject\ProductsOrder\ProductsOrder\bin\Debug\net8.0-windows\ProductsOrder.deps.json
+C:\src\SPRING\DataBase Programming\Project\databasemanagementproject\ProductsOrder\ProductsOrder\bin\Debug\net8.0-windows\ProductsOrder.runtimeconfig.json
+C:\src\SPRING\DataBase Programming\Project\databasemanagementproject\ProductsOrder\ProductsOrder\bin\Debug\net8.0-windows\ProductsOrder.dll
+C:\src\SPRING\DataBase Programming\Project\databasemanagementproject\ProductsOrder\ProductsOrder\bin\Debug\net8.0-windows\ProductsOrder.pdb
+C:\src\SPRING\DataBase Programming\Project\databasemanagementproject\ProductsOrder\ProductsOrder\obj\Debug\net8.0-windows\ProductsOrder.frmMDIParent.resources
+C:\src\SPRING\DataBase Programming\Project\databasemanagementproject\ProductsOrder\ProductsOrder\obj\Debug\net8.0-windows\ProductsOrder.frmOrder.resources
+C:\src\SPRING\DataBase Programming\Project\databasemanagementproject\ProductsOrder\ProductsOrder\obj\Debug\net8.0-windows\ProductsOrder.frmProducts.resources
+C:\src\SPRING\DataBase Programming\Project\databasemanagementproject\ProductsOrder\ProductsOrder\obj\Debug\net8.0-windows\ProductsOrder.csproj.GenerateResource.cache
+C:\src\SPRING\DataBase Programming\Project\databasemanagementproject\ProductsOrder\ProductsOrder\obj\Debug\net8.0-windows\ProductsOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\SPRING\DataBase Programming\Project\databasemanagementproject\ProductsOrder\ProductsOrder\obj\Debug\net8.0-windows\ProductsOrder.AssemblyInfoInputs.cache
+C:\src\SPRING\DataBase Programming\Project\databasemanagementproject\ProductsOrder\ProductsOrder\obj\Debug\net8.0-windows\ProductsOrder.AssemblyInfo.cs
+C:\src\SPRING\DataBase Programming\Project\databasemanagementproject\ProductsOrder\ProductsOrder\obj\Debug\net8.0-windows\ProductsOrder.csproj.CoreCompileInputs.cache
+C:\src\SPRING\DataBase Programming\Project\databasemanagementproject\ProductsOrder\ProductsOrder\obj\Debug\net8.0-windows\ProductsOrder.sourcelink.json
+C:\src\SPRING\DataBase Programming\Project\databasemanagementproject\ProductsOrder\ProductsOrder\obj\Debug\net8.0-windows\ProductsOrder.dll
+C:\src\SPRING\DataBase Programming\Project\databasemanagementproject\ProductsOrder\ProductsOrder\obj\Debug\net8.0-windows\refint\ProductsOrder.dll
+C:\src\SPRING\DataBase Programming\Project\databasemanagementproject\ProductsOrder\ProductsOrder\obj\Debug\net8.0-windows\ProductsOrder.pdb
+C:\src\SPRING\DataBase Programming\Project\databasemanagementproject\ProductsOrder\ProductsOrder\obj\Debug\net8.0-windows\ProductsOrder.genruntimeconfig.cache
+C:\src\SPRING\DataBase Programming\Project\databasemanagementproject\ProductsOrder\ProductsOrder\obj\Debug\net8.0-windows\ref\ProductsOrder.dll
+C:\src\SPRING\DataBase Programming\Project\databasemanagementproject\ProductsOrder\ProductsOrder\bin\Debug\net8.0-windows\ProductsOrder.dll.config
+C:\src\SPRING\DataBase Programming\Project\databasemanagementproject\ProductsOrder\ProductsOrder\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\src\SPRING\DataBase Programming\Project\databasemanagementproject\ProductsOrder\ProductsOrder\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\src\SPRING\DataBase Programming\Project\databasemanagementproject\ProductsOrder\ProductsOrder\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\src\SPRING\DataBase Programming\Project\databasemanagementproject\ProductsOrder\ProductsOrder\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\src\SPRING\DataBase Programming\Project\databasemanagementproject\ProductsOrder\ProductsOrder\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\src\SPRING\DataBase Programming\Project\databasemanagementproject\ProductsOrder\ProductsOrder\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\src\SPRING\DataBase Programming\Project\databasemanagementproject\ProductsOrder\ProductsOrder\obj\Debug\net8.0-windows\ProductsOrder.csproj.AssemblyReference.cache
+C:\src\SPRING\DataBase Programming\Project\databasemanagementproject\ProductsOrder\ProductsOrder\obj\Debug\net8.0-windows\Products.9D1E5A1E.Up2Date
+C:\src\SPRING\DataBase Programming\Project\databasemanagementproject\ProductsOrder\ProductsOrder\obj\Debug\net8.0-windows\ProductsOrder.Properties.Resources.resources
+C:\src\SPRING\DataBase Programming\Project\databasemanagementproject\ProductsOrder\ProductsOrder\obj\Debug\net8.0-windows\ProductsOrder.frmProductOrder.resources
+C:\src\SPRING\DataBase Programming\Project\databasemanagementproject\ProductsOrder\ProductsOrder\obj\Debug\net8.0-windows\ProductsOrder.frmLogin.resources
+C:\src\SPRING\DataBase Programming\Project\databasemanagementproject\ProductsOrder\ProductsOrder\obj\Debug\net8.0-windows\ProductsOrder.SplashScreen.resources
+C:\src\SPRING\DataBase Programming\Project\databasemanagementproject\ProductsOrder\ProductsOrder\obj\Debug\net8.0-windows\ProductsOrder.frmBrowseProduct.resources
+C:\src\SPRING\DataBase Programming\Project\databasemanagementproject\ProductsOrder\ProductsOrder\obj\Debug\net8.0-windows\ProductsOrder.frmBrowseOrders.resources
+C:\src\SPRING\DataBase Programming\Project\databasemanagementproject\ProductsOrder\ProductsOrder\obj\Debug\net8.0-windows\ProductsOrder.frmHome.resources
+C:\src\dbProg\ProductsOrder\ProductsOrder\bin\Debug\net8.0-windows\ProductsOrder.exe
+C:\src\dbProg\ProductsOrder\ProductsOrder\bin\Debug\net8.0-windows\ProductsOrder.dll.config
+C:\src\dbProg\ProductsOrder\ProductsOrder\bin\Debug\net8.0-windows\ProductsOrder.deps.json
+C:\src\dbProg\ProductsOrder\ProductsOrder\bin\Debug\net8.0-windows\ProductsOrder.runtimeconfig.json
+C:\src\dbProg\ProductsOrder\ProductsOrder\bin\Debug\net8.0-windows\ProductsOrder.dll
+C:\src\dbProg\ProductsOrder\ProductsOrder\bin\Debug\net8.0-windows\ProductsOrder.pdb
+C:\src\dbProg\ProductsOrder\ProductsOrder\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\src\dbProg\ProductsOrder\ProductsOrder\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\src\dbProg\ProductsOrder\ProductsOrder\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\src\dbProg\ProductsOrder\ProductsOrder\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\src\dbProg\ProductsOrder\ProductsOrder\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\src\dbProg\ProductsOrder\ProductsOrder\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\src\dbProg\ProductsOrder\ProductsOrder\obj\Debug\net8.0-windows\ProductsOrder.csproj.AssemblyReference.cache
+C:\src\dbProg\ProductsOrder\ProductsOrder\obj\Debug\net8.0-windows\ProductsOrder.frmBrowseOrders.resources
+C:\src\dbProg\ProductsOrder\ProductsOrder\obj\Debug\net8.0-windows\ProductsOrder.frmBrowseProduct.resources
+C:\src\dbProg\ProductsOrder\ProductsOrder\obj\Debug\net8.0-windows\ProductsOrder.frmHome.resources
+C:\src\dbProg\ProductsOrder\ProductsOrder\obj\Debug\net8.0-windows\ProductsOrder.frmLogin.resources
+C:\src\dbProg\ProductsOrder\ProductsOrder\obj\Debug\net8.0-windows\ProductsOrder.frmMDIParent.resources
+C:\src\dbProg\ProductsOrder\ProductsOrder\obj\Debug\net8.0-windows\ProductsOrder.frmOrder.resources
+C:\src\dbProg\ProductsOrder\ProductsOrder\obj\Debug\net8.0-windows\ProductsOrder.frmProducts.resources
+C:\src\dbProg\ProductsOrder\ProductsOrder\obj\Debug\net8.0-windows\ProductsOrder.frmProductOrder.resources
+C:\src\dbProg\ProductsOrder\ProductsOrder\obj\Debug\net8.0-windows\ProductsOrder.Properties.Resources.resources
+C:\src\dbProg\ProductsOrder\ProductsOrder\obj\Debug\net8.0-windows\ProductsOrder.SplashScreen.resources
+C:\src\dbProg\ProductsOrder\ProductsOrder\obj\Debug\net8.0-windows\ProductsOrder.csproj.GenerateResource.cache
+C:\src\dbProg\ProductsOrder\ProductsOrder\obj\Debug\net8.0-windows\ProductsOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\dbProg\ProductsOrder\ProductsOrder\obj\Debug\net8.0-windows\ProductsOrder.AssemblyInfoInputs.cache
+C:\src\dbProg\ProductsOrder\ProductsOrder\obj\Debug\net8.0-windows\ProductsOrder.AssemblyInfo.cs
+C:\src\dbProg\ProductsOrder\ProductsOrder\obj\Debug\net8.0-windows\ProductsOrder.csproj.CoreCompileInputs.cache
+C:\src\dbProg\ProductsOrder\ProductsOrder\obj\Debug\net8.0-windows\Products.9D1E5A1E.Up2Date
+C:\src\dbProg\ProductsOrder\ProductsOrder\obj\Debug\net8.0-windows\ProductsOrder.dll
+C:\src\dbProg\ProductsOrder\ProductsOrder\obj\Debug\net8.0-windows\refint\ProductsOrder.dll
+C:\src\dbProg\ProductsOrder\ProductsOrder\obj\Debug\net8.0-windows\ProductsOrder.pdb
+C:\src\dbProg\ProductsOrder\ProductsOrder\obj\Debug\net8.0-windows\ProductsOrder.genruntimeconfig.cache
+C:\src\dbProg\ProductsOrder\ProductsOrder\obj\Debug\net8.0-windows\ref\ProductsOrder.dll
+C:\src\databasemanagementproject\ProductsOrder\ProductsOrder\bin\Debug\net8.0-windows\ProductsOrder.exe
+C:\src\databasemanagementproject\ProductsOrder\ProductsOrder\bin\Debug\net8.0-windows\ProductsOrder.dll.config
+C:\src\databasemanagementproject\ProductsOrder\ProductsOrder\bin\Debug\net8.0-windows\ProductsOrder.deps.json
+C:\src\databasemanagementproject\ProductsOrder\ProductsOrder\bin\Debug\net8.0-windows\ProductsOrder.runtimeconfig.json
+C:\src\databasemanagementproject\ProductsOrder\ProductsOrder\bin\Debug\net8.0-windows\ProductsOrder.dll
+C:\src\databasemanagementproject\ProductsOrder\ProductsOrder\bin\Debug\net8.0-windows\ProductsOrder.pdb
+C:\src\databasemanagementproject\ProductsOrder\ProductsOrder\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\src\databasemanagementproject\ProductsOrder\ProductsOrder\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\src\databasemanagementproject\ProductsOrder\ProductsOrder\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\src\databasemanagementproject\ProductsOrder\ProductsOrder\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\src\databasemanagementproject\ProductsOrder\ProductsOrder\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\src\databasemanagementproject\ProductsOrder\ProductsOrder\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\src\databasemanagementproject\ProductsOrder\ProductsOrder\obj\Debug\net8.0-windows\ProductsOrder.csproj.AssemblyReference.cache
+C:\src\databasemanagementproject\ProductsOrder\ProductsOrder\obj\Debug\net8.0-windows\ProductsOrder.frmBrowseOrders.resources
+C:\src\databasemanagementproject\ProductsOrder\ProductsOrder\obj\Debug\net8.0-windows\ProductsOrder.frmBrowseProduct.resources
+C:\src\databasemanagementproject\ProductsOrder\ProductsOrder\obj\Debug\net8.0-windows\ProductsOrder.frmHome.resources
+C:\src\databasemanagementproject\ProductsOrder\ProductsOrder\obj\Debug\net8.0-windows\ProductsOrder.frmLogin.resources
+C:\src\databasemanagementproject\ProductsOrder\ProductsOrder\obj\Debug\net8.0-windows\ProductsOrder.frmMDIParent.resources
+C:\src\databasemanagementproject\ProductsOrder\ProductsOrder\obj\Debug\net8.0-windows\ProductsOrder.frmOrder.resources
+C:\src\databasemanagementproject\ProductsOrder\ProductsOrder\obj\Debug\net8.0-windows\ProductsOrder.frmProducts.resources
+C:\src\databasemanagementproject\ProductsOrder\ProductsOrder\obj\Debug\net8.0-windows\ProductsOrder.frmProductOrder.resources
+C:\src\databasemanagementproject\ProductsOrder\ProductsOrder\obj\Debug\net8.0-windows\ProductsOrder.Properties.Resources.resources
+C:\src\databasemanagementproject\ProductsOrder\ProductsOrder\obj\Debug\net8.0-windows\ProductsOrder.SplashScreen.resources
+C:\src\databasemanagementproject\ProductsOrder\ProductsOrder\obj\Debug\net8.0-windows\ProductsOrder.csproj.GenerateResource.cache
+C:\src\databasemanagementproject\ProductsOrder\ProductsOrder\obj\Debug\net8.0-windows\ProductsOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\databasemanagementproject\ProductsOrder\ProductsOrder\obj\Debug\net8.0-windows\ProductsOrder.AssemblyInfoInputs.cache
+C:\src\databasemanagementproject\ProductsOrder\ProductsOrder\obj\Debug\net8.0-windows\ProductsOrder.AssemblyInfo.cs
+C:\src\databasemanagementproject\ProductsOrder\ProductsOrder\obj\Debug\net8.0-windows\ProductsOrder.csproj.CoreCompileInputs.cache
+C:\src\databasemanagementproject\ProductsOrder\ProductsOrder\obj\Debug\net8.0-windows\ProductsOrder.sourcelink.json
+C:\src\databasemanagementproject\ProductsOrder\ProductsOrder\obj\Debug\net8.0-windows\Products.9D1E5A1E.Up2Date
+C:\src\databasemanagementproject\ProductsOrder\ProductsOrder\obj\Debug\net8.0-windows\ProductsOrder.dll
+C:\src\databasemanagementproject\ProductsOrder\ProductsOrder\obj\Debug\net8.0-windows\refint\ProductsOrder.dll
+C:\src\databasemanagementproject\ProductsOrder\ProductsOrder\obj\Debug\net8.0-windows\ProductsOrder.pdb
+C:\src\databasemanagementproject\ProductsOrder\ProductsOrder\obj\Debug\net8.0-windows\ProductsOrder.genruntimeconfig.cache
+C:\src\databasemanagementproject\ProductsOrder\ProductsOrder\obj\Debug\net8.0-windows\ref\ProductsOrder.dll
